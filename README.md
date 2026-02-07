@@ -53,4 +53,4 @@ Data Processing: Pandas, NumPy, Scikit-learn
 Visualization: Matplotlib, Seaborn
 Environment: Python 3.8+
 
-Original repository: [<link>](https://github.com/MuhammadAmanQazi2/Nephropathy-Classification-CT-Scan-Kidney-Disease-Diagnosis)
+Original repository: (https://github.com/MuhammadAmanQazi2/Nephropathy-Classification-CT-Scan-Kidney-Disease-Diagnosis)
